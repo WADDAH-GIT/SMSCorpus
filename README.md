@@ -5,7 +5,6 @@ If you use this dataset, please cite our paper:
 
 .......
 This dataset was constructed using the following datasets:
-
-http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
-http://www.dit.ie/computing/research/resources/smsdata/
-http://mtaufiqnzz.wordpress.com/british-english-sms-corpora/
+SMS spam collection: http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
+DIT SMS spam: http://www.dit.ie/computing/research/resources/smsdata/
+British English SMS: http://mtaufiqnzz.wordpress.com/british-english-sms-corpora/
