@@ -1,0 +1,10 @@
+Variable: ClassInfo
+This variable just to inform the researchers that we represent Legitimate and Spam classes in Folds and FullSMStext variables by 1 and 2, respectively.
+
+
+Variable: Folds
+The 10 used folds in the paper. The first column in each row represents the 9 training folds, while the second column for the test fold.
+
+
+Variable: FullSMStext
+The final English SMS collection from which we created the folds.
