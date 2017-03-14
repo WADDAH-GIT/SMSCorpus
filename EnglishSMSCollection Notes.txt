@@ -3,7 +3,7 @@ This variable just to inform the researchers that we represent Legitimate and Sp
 
 
 Variable: Folds
-The 10 used folds in the paper. The first column in each row represents the 9 training folds, while the second column for the test fold.
+The 10 used folds in the paper. The first column in each row represents the training samples for that fold, while the second column is the test samples.
 
 
 Variable: FullSMStext
