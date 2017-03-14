@@ -1,7 +1,7 @@
 # English SMS Collection
-We used this dataset to analyse the relationship between features size and classification performance.
+We used this collection to analyse the relationship between features size and classification performance.
 
-If you use this dataset, please cite our paper:
+If you use this collection, please cite our paper:
 .......
 
 This dataset was constructed using the following datasets:
