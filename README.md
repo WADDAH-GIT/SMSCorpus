@@ -1,4 +1,4 @@
-# SMSCorpus
+# English SMS Collection
 We used this dataset to analyse the relationship between features size and classification performance.
 
 If you use this dataset, please cite our paper:
