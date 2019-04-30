@@ -5,7 +5,7 @@ If you use this collection, please cite our paper:
 
 Content-based SMS Classification: Statistical Analysis for the Relationship between Features Size and Classification Performance (http://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/2593)
 
-This dataset was constructed using the following datasets:
+This collection  was constructed using the following datasets:
 
 SMS spam collection: http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
 
