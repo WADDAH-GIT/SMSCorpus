@@ -10,5 +10,7 @@ This collection was constructed using SMS spam collection, DIT SMS spam, and Bri
 The content of EnglishSMSCollection.mat (https://github.com/Waddah-Saeed/EnglishSMSCollection/blob/master/EnglishSMSCollection.mat) is:
 
 ClassInfo: This variable just to inform the researchers that we represent Legitimate and Spam classes in Folds and FullSMStext variables by 1 and 2, respectively.
+
 FullSMStext: The final English SMS collection from which we created the folds.
+
 Folds: The 10-folds used in the paper. The first column in each row represents the training samples for that fold, while the second column is the test samples.
